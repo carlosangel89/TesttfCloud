@@ -39,7 +39,7 @@ variable "enable_monitoring" {
     type = bool
 }
 
-variable "acces_key" {
+variable "access_key" {
 
 }
 
