@@ -19,4 +19,4 @@ ec2_specs = {
   "instance_type" = "t3.micro"
 }
 
-enable_monitoring = true
+enable_monitoring = false
